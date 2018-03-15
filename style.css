@@ -1,0 +1,78 @@
+Body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin-left: 200px;
+    text-align: center;
+    
+}
+
+Header {
+    background: #ebebeb;
+    padding: 25px;
+}
+
+Nav {
+    background: #ebebeb;
+    padding: 25px;
+    
+}
+
+Section {
+    background: #ebebeb;
+    width: 495px;
+    float: left;
+    height: 350px;
+    overflow: auto;
+}
+
+Aside {
+    background: #ebebeb;
+    float: right;
+    height: 350px;
+    width: 425px;
+    overflow: auto;
+}
+
+.clearfix {
+    clear: both;
+    
+}
+
+Footer {
+    background: #ebebeb;
+    clear: both;
+    padding: 25px;
+    overflow: auto;
+    
+}
+
+Article {
+    color: #ebebeb;
+    background: #777;
+    position: relative;
+    width: 425px;
+    padding: 5px;
+    height: 250px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-bottom; 10px;
+}
+
+h1 {
+    color: #777;
+    background: #ebebeb;
+    position: relative;
+    padding: 1px;
+}
+
+p {
+    color: #777;
+    background: #ebebeb;
+    padding: 25px;
+    
+
+}
+
